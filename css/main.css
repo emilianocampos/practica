@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: black;
+}
+.container{
+    background-color: rgba(68, 68, 68, 0.822);
+    margin-top: 150px;
+    border-radius: 4px;
+}
